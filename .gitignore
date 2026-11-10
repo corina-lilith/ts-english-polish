@@ -1,0 +1,11 @@
+# Dependencies
+node_modules/
+
+# Compiled JavaScript
+*.js
+
+# Environment variables
+.env
+
+# macOS files
+.DS_Store
