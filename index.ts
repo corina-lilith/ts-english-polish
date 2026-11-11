@@ -15,4 +15,5 @@ const word2: Word = {
   polish: "niebieski",
 };
 
-console.log(word2);
+console.log(word1);
+console.log(word1.category);
